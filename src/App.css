@@ -1,0 +1,24 @@
+body {
+  background: #f3f1f2;
+  font-family: sans-serif;
+}
+
+.app {
+  margin: 1rem 4rem;
+  width: 500px;
+}
+
+.card {
+  width: 50%;
+  margin: auto; 
+}
+
+
+.userIntro {
+  display: flex;
+  justify-content: space-between;
+}
+
+.userTitles{
+  margin: auto 0px;
+}
